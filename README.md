@@ -1,5 +1,6 @@
 # Exposicion Canina
-
+##Integrantes
+Julian Ceballos Y Nicolas Maya
 ## Descripción
 En una exposición canina se realizan desfiles de ejemplares de diferentes razas. De cada ejemplar se manejan la siguiente información: nombre (el cual debe ser único en toda la exposición), raza, edad y puntos otorgados en la exposición. La fotografía por ahora solo se ingresa el nombre del archivo, por ejemplo: sultan.jpg
 
